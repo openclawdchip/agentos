@@ -61,7 +61,7 @@ AgentOS Dashboard is the self-cognitive interface for AI Agents:
 ```bash
 # Clone repository
 git clone https://github.com/openclawdchip/agentos.git
-cd agentos-dashboard
+cd agentos
 
 # Install dependencies
 npm install
@@ -177,7 +177,7 @@ AgentOS Dashboard 是 AI Agent 的自我认知界面：
 ```bash
 # 克隆仓库
 git clone https://github.com/openclawdchip/agentos.git
-cd agentos-dashboard
+cd agentos
 
 # 安装依赖
 npm install
