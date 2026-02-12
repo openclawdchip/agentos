@@ -59,7 +59,7 @@ AgentOS Dashboard 是 AI Agent 的自我认知界面：
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/agentos-dashboard.git
+git clone https://github.com/openclawdchip/agentos.git
 cd agentos-dashboard
 
 # 安装依赖
@@ -100,7 +100,7 @@ agentos-dashboard/
 
 ## 🌐 在线预览
 
-[https://fgaarfhgvtarq.ok.kimi.link](https://fgaarfhgvtarq.ok.kimi.link)
+(http://www.clawdchip.com/agentos/)
 
 ## 📄 许可证
 
