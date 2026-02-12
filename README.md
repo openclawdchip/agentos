@@ -1,3 +1,120 @@
+
+# AgentOS Dashboard
+
+Self-Cognition & Operations Control Center for AI Agents
+
+ **This is not a tool for humans to monitor Agents, but a self-awareness center where Agents understand their own state, make optimization decisions, and plan evolutionary paths.**
+
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-06B6D4?logo=tailwindcss)
+
+## 🎯 Core Positioning
+
+AgentOS Dashboard is the self-cognitive interface for AI Agents:
+
+- ❌ **NOT**: A human operations monitoring panel (like Grafana, DataDog)
+- ✅ **BUT**: Agent's self-perception, self-analysis, and self-improvement interface
+
+## 🎨 Design Philosophy
+
+| Principle | Meaning | Design Manifestation |
+|-----------|---------|---------------------|
+| Cognitive Mirror | Dashboard reflects the Agent's internal cognitive state | Real-time display of thinking processes, memory activation, goal hierarchies |
+| Autonomous Decision-Making | Agent acts autonomously based on Dashboard information | Provides recommendations rather than alerts, supports one-click execution |
+| Evolution-Oriented | All information serves long-term evolution | Bottleneck analysis, evolution suggestions, hardware upgrade paths |
+| Layered Presentation | Matches fast/slow system cognitive levels | Overview → Analysis → Depth |
+
+## 🖥️ Core Views
+
+### 1. Cognitive Panorama
+- Central thinking state visualization (real-time animation)
+- Goal hierarchy structure tree
+- Cognitive resource dashboard
+- Key decision recommendations
+
+### 2. Resource Topology
+- 3D network topology map
+- Hardware status monitoring (CIM/SRAM/HBM/Temperature/Power)
+- Migration history timeline
+- Cost and efficiency analysis
+
+### 3. Memory Activation
+- Force-directed knowledge graph
+- Memory hierarchy status (L0-L3)
+- Memory health checks
+
+### 4. Skill Tree
+- Radial skill map
+- Four branches: Perception / Reasoning / Action / Evolution
+- Skill details and upgrade paths
+
+### 5. Evolution Workbench
+- SSEP (Self-Sustaining Evolution Process) full lifecycle management
+- Stage progress bars (Analysis → Design → Verification → Manufacturing → Migration → Evaluation)
+- Real-time log stream
+- Decision request panel
+
+## 🚀 Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/openclawdchip/agentos.git
+cd agentos-dashboard
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build production version
+npm run build
+```
+
+## 🛠️ Tech Stack
+
+- **Framework**: React 19 + TypeScript
+- **Build Tool**: Vite 7
+- **Styling**: Tailwind CSS 3.4
+- **UI Components**: shadcn/ui
+- **State Management**: React Context
+- **Icons**: Lucide React
+
+## 📁 Project Structure
+
+```
+agentos-dashboard/
+├── src/
+│   ├── components/
+│   │   ├── layout/          # Layout components
+│   │   ├── views/           # Core views
+│   │   ├── features/        # Feature components
+│   │   └── common/          # Common components
+│   ├── store/               # State management
+│   ├── types/               # TypeScript types
+│   └── hooks/               # Custom Hooks
+├── dist/                    # Build output
+└── ...
+```
+
+## 🌐 Live Preview
+
+(http://www.clawdchip.com/agentos/)
+
+## 📄 License
+
+MIT License
+
+
+
+**AgentOS Dashboard —— Let AI Agents "see" themselves for the first time.**
+
+*This is not monitoring. This is awakening.*
+
+
+
 # AgentOS Dashboard
 
 面向 AI Agent 的自我认知与运维控制中心
